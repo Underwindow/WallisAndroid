@@ -1,0 +1,2 @@
+D:\GENYA\Documents\Unity Projects\WallisAndroid\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GENYA\Documents\Unity Projects\WallisAndroid\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

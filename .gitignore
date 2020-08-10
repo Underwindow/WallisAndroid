@@ -1,0 +1,13 @@
+*.png
+*.wav
+*.mp3
+*.prefab
+*.fbx
+*.cache
+*.keystore
+*.cmd
+*.meta
+*.apk
+*.aab
+*.so
+*.cubemap
